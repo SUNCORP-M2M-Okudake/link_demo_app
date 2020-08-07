@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Spinnerの選択項目テキストレイアウト
+-->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/spinner_text_item1"
+    android:singleLine="true"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:gravity="center"
+    android:textColor="#000000"
+    android:textSize="16dp"
+    android:background="#fff"
+    android:ellipsize="marquee"/>
+
