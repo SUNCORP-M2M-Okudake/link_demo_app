@@ -18,4 +18,4 @@
 
 ## ライセンス (License)
 ---
-このコードおよびバイナリは、[BSD 3-Clause](LICENSE.md)に基づいて配布されます。
+このコードおよびバイナリは、[BSD 3-Clause](LICENSE)に基づいて配布されます。
